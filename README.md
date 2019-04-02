@@ -6,7 +6,6 @@
 **This Project is my Final Year Project for Computer Science with Data Science in UCD**
 
 
-
 &nbsp; 
 
 The outcome of the project was a playlist continuation system ran through Juypter Notebooks in Python.
