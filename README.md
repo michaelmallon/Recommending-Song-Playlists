@@ -1,6 +1,6 @@
 # Recommending-Song-Playlists
 
-<a href="https://github.com/michaelmallon/Recommending-Song-Playlists"><img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjfprDF_bHhAhU6RxUIHR4KCIwQjRx6BAgBEAQ&url=https%3A%2F%2Fnewsroom.spotify.com%2Fmedia-kit%2Flogo-and-brand-assets%2F&psig=AOvVaw1ZUCkz7_LUCwUHyc-GSTwP&ust=1554314143417428" align="left" alt="Spotify Logo" height="200" /></a>
+<a href="https://github.com/michaelmallon/Recommending-Song-Playlists"><img src="spotify_logo.png" align="left" alt="Spotify Logo" height="200" /></a>
 
 
 **This Project is my Final Year Project for Computer Science with Data Science in UCD**
