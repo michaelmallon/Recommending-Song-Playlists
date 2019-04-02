@@ -21,7 +21,7 @@ FYP Project
 * [Track Elements Analysis](100_Analysis/120_Track_elems_Analysis.ipynb)
 * [Audio Feature Analysis](100_Analysis/130_Audio_feature_Analysis.ipynb)
 * [Average Artist Analysis](100_Analysis/200_Average_Artist.ipynb)
-* [Average Playlist Analysis](100_Analysis/210_Average_Playlist.ipynb)]
+* [Average Playlist Analysis](100_Analysis/210_Average_Playlist.ipynb)
 
 ### [Chapter 3 : Data Mining](200_Data_Mining)
 
