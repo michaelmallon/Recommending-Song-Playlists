@@ -1,5 +1,7 @@
 # Recommending-Song-Playlists
-FYP Project
+This project is my Final Year Project for Computer Science with Data Science in UCD. 
+The outcome of the project was a playlist continuation system ran through Juypter Notebooks in Pyton.
+The results are reproducable, to run them on a different system run from folders 000-300 and inside each from 000-?00.
 
 ## Contents
 
