@@ -3,18 +3,15 @@
 <a href="https://github.com/michaelmallon/Recommending-Song-Playlists"><img src="spotify_logo.png" align="left" alt="Spotify Logo" height="200" /></a>
 
 
-**This Project is my Final Year Project for Computer Science with Data Science in UCD**<pre>
-
-
-
-</pre>
+**This Project is my Final Year Project for Computer Science with Data Science in UCD**
+&nbsp;  
 The outcome of the project was a playlist continuation system ran through Juypter Notebooks in Python.
 
-The results are reproducable, to run them on a different system run each python notebook from folders 000-300 in numberical order from 000-?00.<pre>
+The results are reproducable, to run them on a different system run each python notebook from folders 000-300 in numberical order from 000-?00.
 
 
 
-</pre>
+&nbsp;
 The data was provided via the ACM RecSys Challange (2018),
 
 The dataset provided in a .JSON format contained contained 1 million unique playlists,
