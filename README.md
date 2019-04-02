@@ -6,6 +6,7 @@
 **This Project is my Final Year Project for Computer Science with Data Science in UCD**
 
 
+
 The outcome of the project was a playlist continuation system ran through Juypter Notebooks in Python.
 
 The results are reproducable, to run them on a different system run each python notebook from folders 000-300 in numberical order from 000-?00.
@@ -15,7 +16,7 @@ The data was provided via the ACM RecSys Challange (2018),
 
 The dataset provided in a .JSON format contained contained 1 million unique playlists,
 
-2.2+ million unique songs with 66+million songs in total. Additional audio features were also scraped for each of the 2.2million. unique songs in the dataset
+2.2+ million unique songs with 66+million songs in total. Additional audio features were also scraped for each of the 2.2+ million. unique songs in the dataset
 
 ## Contents
 
