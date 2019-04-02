@@ -30,3 +30,7 @@ FYP Project
 * [Popularity Rankings](200_Data_Mining/200_Popularity_Rankings.ipynb)
 * [Popularity Ranking Evalutation](200_Data_Mining/210_Popularity_Ranking_Evaluation.ipynb)
 * [K-Means Clustering Playlist & Analysis](200_Data_Mining/300_Playlist_Cluster.ipynb)
+
+### [Chapter 4 : Recommender System](300_Recommender_System)
+
+* [Preparing Cosine Similarity Dataframe](300_Recommender_System/000_Cosine_Dataframe.ipynb)
