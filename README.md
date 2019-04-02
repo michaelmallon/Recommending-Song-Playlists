@@ -22,7 +22,7 @@ The dataset provided in a .JSON format contained contained 1 million unique play
 
 2.2+ million unique songs with 66+million songs in total,
 
-Additional audio features were also scraped for each of the 2.2+ million. unique songs in the dataset
+Additional audio features were also scraped for each of the 2.2+ million unique songs in the dataset.
 
 ## Contents
 
