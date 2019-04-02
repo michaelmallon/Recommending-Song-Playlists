@@ -10,7 +10,7 @@
 
 The outcome of the project was a playlist continuation system ran through Juypter Notebooks in Python.
 
-The results are reproducable, to run them on a different system run each python notebook from folders 000-300 in numberical order from 000-?00.
+The results are reproducable, to run them on a different system run each python notebook from folders 000-300 and their contents in numberical order from 000-?00.
 
 
 
