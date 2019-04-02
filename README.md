@@ -21,7 +21,9 @@ The data was provided via the ACM RecSys Challange (2018),
 
 The dataset provided in a .JSON format contained contained 1 million unique playlists,
 
-2.2+ million unique songs with 66+million songs in total. Additional audio features were also scraped for each of the 2.2+ million. unique songs in the dataset
+2.2+ million unique songs with 66+million songs in total,
+
+Additional audio features were also scraped for each of the 2.2+ million. unique songs in the dataset
 
 ## Contents
 
