@@ -10,8 +10,8 @@
 
 The outcome of the project was a playlist continuation system ran through Juypter Notebooks in Python.
 
-The results are reproducable, to run them on a different system run each python notebook from folders 000-300 and their contents in numberical order from 000-???. Detailed in the main is a file requirements.txt which contains all of the packages installed for the project.
-
+The results are reproducable, to run them on a different system run each python notebook from folders 000-300 and their contents in numberical order from 000-???.
+Detailed in the main is a file requirements.txt which contains all of the packages installed for the project.
 
 
 &nbsp;
