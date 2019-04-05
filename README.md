@@ -14,7 +14,7 @@ Detailed in the main is a file requirements.txt which contains all of the packag
 
 &nbsp;
 
-The data was provided via the ACM RecSys Challange (2018),
+The data was provided via the [ACM RecSys Challange (2018)](https://recsys.acm.org/recsys18/),
 
 The dataset provided in a .JSON format contained contained 1 million unique playlists,
 
