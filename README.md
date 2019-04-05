@@ -55,3 +55,8 @@ Additional audio features were also scraped for each of the 2.2+ million unique 
 ### [Part 4 : Recommender System](300_Recommender_System)
 
 * [Preparing Cosine Similarity Dataframe](300_Recommender_System/000_Cosine_Dataframe.ipynb)
+* [Audio Feature Recommender System](300_Recommender_System/100_Audio_Feature_RS.ipynb)
+* [Audio Feature and Popularity Recommender System](300_Recommender_System/200_Audio_Popularity_RS.ipynb)
+* [Audio Feature, Popularity and Cluster Recommender System](300_Recommender_System/300_Audio_Popularity_Cluster_RS.ipynb)
+* [Song Recommender System](300_Recommender_System/400_Song_Recommender.ipynb)
+* [Playlist Continuation System](300_Recommender_System/500_Playlist_Continuation_System.ipynb)
