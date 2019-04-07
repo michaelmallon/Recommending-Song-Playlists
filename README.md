@@ -12,6 +12,8 @@ The results are reproducable, to run them on a different system run each python 
 
 Detailed in the main is a file requirements.txt which contains all of the packages installed for the project.
 
+To gain access to the data for this project email: michael.mallon@ucdconnect.ie
+
 &nbsp;
 
 The data was provided via the [ACM RecSys Challange (2018)](https://recsys.acm.org/recsys18/),
