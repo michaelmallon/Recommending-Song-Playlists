@@ -32,7 +32,7 @@ Additional audio features were also scraped for each of the 2.2+ million unique 
 <!-- START_TOC -->
 
 ### [Part 1 : Data Preperation](000_Preperation)
-
+This section loads in all of the dataframes and saves them as pickle files for later analysis
 * [Loading Playlists](000_Preperation/100_load_Playlist.ipynb)
 * [Loading Tracks](000_Preperation/110_load_Tracks.ipynb)
 * [Loading Track Elements](000_Preperation/120_load_Track_elems.ipynb)
