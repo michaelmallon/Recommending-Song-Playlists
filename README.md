@@ -32,7 +32,7 @@ Additional audio features were also scraped for each of the 2.2+ million unique 
 <!-- START_TOC -->
 
 ### [Part 1 : Data Preperation](000_Preperation)
-Part 1 loads in all of the dataframes and saves them as pickle files for later analysis
+Loads All of the Dataframes and Saves Them as Pickle Files for Later Analysis
 * [Loading Playlists](000_Preperation/100_load_Playlist.ipynb)
 * [Loading Tracks](000_Preperation/110_load_Tracks.ipynb)
 * [Loading Track Elements](000_Preperation/120_load_Track_elems.ipynb)
@@ -41,7 +41,7 @@ Part 1 loads in all of the dataframes and saves them as pickle files for later a
 
 
 ### [Part 2 : Data Analysis](100_Analysis)
-Part 2 Performs Advanced Analysis An Each of The Dataframes
+2 Performs Advanced Analysis An Each of The Dataframes
 * [Playlist Analysis](100_Analysis/100_Playlist_Analysis.ipynb)
 * [Track Analysis](100_Analysis/110_Track_Analysis.ipynb)
 * [Track Elements Analysis](100_Analysis/120_Track_elems_Analysis.ipynb)
@@ -50,7 +50,7 @@ Part 2 Performs Advanced Analysis An Each of The Dataframes
 * [Average Playlist Analysis](100_Analysis/210_Average_Playlist.ipynb)
 
 ### [Part 3 : Data Mining](200_Data_Mining)
-Part 3 Creates Two New Data Mined Features, Popularity Ranking and Clusters
+Creates Two New Data Mined Features, Popularity Ranking and Clusters
 * [K-Means Cluster Songs](200_Data_Mining/100_KMeans_Clustering.ipynb)
 * [K-Means Clustering Analysis](200_Data_Mining/110_KMeans_Clustering_Analysis.ipynb)
 * [Popularity Rankings](200_Data_Mining/200_Popularity_Rankings.ipynb)
@@ -58,7 +58,7 @@ Part 3 Creates Two New Data Mined Features, Popularity Ranking and Clusters
 * [K-Means Clustering Playlist & Analysis](200_Data_Mining/300_Playlist_Cluster.ipynb)
 
 ### [Part 4 : Recommender System](300_Recommender_System)
-Part 4 Implements 5 Recommender Systems containing the Project Goal **Playlist Contunation System**
+Implements 5 Recommender Systems containing the Project Goal a **Playlist Contunation System**
 * [Preparing Cosine Similarity Dataframe](300_Recommender_System/000_Cosine_Dataframe.ipynb)
 * [Audio Feature Recommender System](300_Recommender_System/100_Audio_Feature_RS.ipynb)
 * [Audio Feature and Popularity Recommender System](300_Recommender_System/200_Audio_Popularity_RS.ipynb)
