@@ -4,7 +4,7 @@
 
 
 **This Project is my Final Year Project for Computer Science with Data Science in UCD**
-&nbsp; 
+&nbsp; **Michael Mallon - 15438708 - michael.mallon@ucdconnect.ie**
 
 The outcome of the project was a playlist continuation system ran through [Juypter Notebooks](https://jupyter.org)  in Python.
 
